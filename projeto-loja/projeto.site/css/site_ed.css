@@ -1,0 +1,108 @@
+header{
+    background-color: #1b58b3ab;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+td{
+    padding: 5000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    background-color:  #1f1d1d;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button {
+    background-color: #4ba2ff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0077cc;
+}
+.container{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: 5px;
+}
+
+#capacete{
+    background-color: #1b58b3ab;
+    border: 2px solid #1f1d1d;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 18px;
+    width: 80%;
+    max-width: 600px;
+}
+#patins{
+    background-color: #1b58b3ab;
+    border: 2px solid #1f1d1d;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 18px;
+    width: 80%;
+    max-width: 600px;
+}
+#luvas{
+    background-color: #1b58b3ab;
+    border: 2px solid #1f1d1d;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 18px;
+    width: 80%;
+    max-width: 600px;
+}
+#roda{
+    background-color: #1b58b3ab;
+    border: 2px solid #1f1d1d;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 18px;
+    width: 80%;
+    max-width: 600px;
+}
+#taco{
+    background-color: #1b58b3ab;
+    border: 2px solid #1f1d1d;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 18px;
+    width: 80%;
+    max-width: 600px;
+}
+footer{
+    background-color: #1b58b3ab;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btnVoltarAoTopo {
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    background-color: #1b58b3ab; 
+    padding: 10px; 
+    border-radius: 40%; 
+    cursor: pointer; 
+    text-decoration: none;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+#btnVoltarAoTopo:hover {
+    background-color: #1f1d1d;
+}
