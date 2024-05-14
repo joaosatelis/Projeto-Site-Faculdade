@@ -1,2 +1,2 @@
 # Projeto-Site-Faculdade
- Projeto de uma loja feito com HTML e CSS para a faculdade
+ Projeto do meu primeiro site, desenvolvido na faculdade, tratasse de uma loja feito com HTML e CSS
